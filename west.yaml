@@ -1,0 +1,8 @@
+manifest:
+    defaults:
+        remote: zephyr
+        revision: v2.7-branch
+
+    remotes:
+        - name: zephyr
+          url-base: https://github.com/zephyrproject-rtos

@@ -1,3 +1,14 @@
+# VSCode
+.vscode/
+
+# Zephyr related ignore
+.west/
+bootloader/
+build/
+modules/
+tools/
+zephyr/
+
 # Prerequisites
 *.d
 
